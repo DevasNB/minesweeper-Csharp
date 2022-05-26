@@ -1,0 +1,55 @@
+C:\AAA_Escola\PI_2\ProjetoV01\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\AAA_Escola\PI_2\ProjetoV01\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\AAA_Escola\PI_2\ProjetoV01\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\AAA_Escola\PI_2\ProjetoV01\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\AAA_Escola\PI_2\ProjetoV01\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.SuggestedBindingRedirects.cache
+C:\AAA_Escola\PI_2\ProjetoV01\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+C:\AAA_Escola\PI_2\ProjetoV01\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\AAA_Escola\PI_2\ProjetoV01\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\AAA_Escola\PI_2\ProjetoV01\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\AAA_Escola\PI_2\ProjetoV01\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\AAA_Escola\PI_2\ProjetoV01\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV01\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV01\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV01\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV01\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV01\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV01\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV01\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV01\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV01\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV01\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV01\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\joser\OneDrive\Ambiente de Trabalho\ProjetoV02\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\joser\OneDrive\Ambiente de Trabalho\ProjetoV02\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\joser\OneDrive\Ambiente de Trabalho\ProjetoV02\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\joser\OneDrive\Ambiente de Trabalho\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\Users\joser\OneDrive\Ambiente de Trabalho\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\joser\OneDrive\Ambiente de Trabalho\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+C:\Users\joser\OneDrive\Ambiente de Trabalho\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\joser\OneDrive\Ambiente de Trabalho\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\joser\OneDrive\Ambiente de Trabalho\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\joser\OneDrive\Ambiente de Trabalho\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\joser\OneDrive\Ambiente de Trabalho\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\Andrei Nuca\Downloads\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\Andrei Nuca\Downloads\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\Andrei Nuca\Downloads\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\Andrei Nuca\Downloads\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\Users\Andrei Nuca\Downloads\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrei Nuca\Downloads\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+C:\Users\Andrei Nuca\Downloads\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\Andrei Nuca\Downloads\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\Andrei Nuca\Downloads\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\Andrei Nuca\Downloads\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\Andrei Nuca\Downloads\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\joaod\OneDrive\Ambiente de Trabalho\ProjetoV02\ProjetoV02\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
